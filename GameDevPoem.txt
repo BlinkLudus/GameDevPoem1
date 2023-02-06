@@ -1,8 +1,5 @@
 This is a poem about Game development
 a line
-<<<<<<< HEAD
-
 another line
-=======
 your mum death by brandon
->>>>>>> 03d847a10e828759ea1a5909f73c34a0138d9165
+
